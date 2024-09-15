@@ -169,6 +169,10 @@ img {
      box-shadow: 0 0 0 .2rem rgba(255, 255, 255, .25);
 }
 
+.welcome{
+     font-size: larger;
+}
+
 .navbar-form input {
      border: none !important;
 }
